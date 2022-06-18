@@ -1,0 +1,24 @@
+.titile {
+  color:  #0090aa;
+  text-align: center;
+  font-size: 60px;
+  border-bottom: 0.5px black solid;
+}
+.button {
+  /* margin-top: 15px; */
+  font-size: 1.375rem;
+  text-decoration: none;
+  border-radius: 5px;
+  padding: 18px 32px;
+  color: #fff;
+  background: #0bd;
+  align-items: center;
+}
+.button:hover {
+  background-color: #0090aa;
+}
+.re-start {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
