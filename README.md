@@ -10,7 +10,7 @@ IT パスポートの模擬試験を行えるアプリ。
 
 # URL
 
-# テスト用アカウント
+https://hugele.github.io/question/index.html
 
 # 利用方法
 
