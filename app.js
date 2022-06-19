@@ -70,7 +70,13 @@ const clickHandler = (e) => {
   if (quizIndex < quizlength) {
     setupQuiz();
   } else {
-    window.alert("終了!あなたの正解数は" + score + "/" + quizlength + "です");
+    window.alert( "終了!" +
+        "\nあなたの正解数は\n" +
+        score +
+        "/" +
+        quizlength +
+        "です" +
+        "\n”はじめからスタート”をクリックして再挑戦しましょう!\n");
   }
 };
 
