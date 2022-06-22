@@ -56,5 +56,5 @@ https://docs.google.com/spreadsheets/d/1KK5OsCZc8cSOJ8q_kuMVVIxrlsa1kR5WryMKHPf-
 
 
 # 画面遷移図  
-
-https://i.gyazo.com/566446d9723db664f5ecec7cb7fe08ca.png
+  
+[https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif](https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif)
