@@ -29,8 +29,7 @@ https://hugele.github.io/question/
 
 # 洗い出した要件　　
 
-
-https://docs.google.com/spreadsheets/d/1KK5OsCZc8cSOJ8q_kuMVVIxrlsa1kR5WryMKHPf-x3Q/edit#gid=1673176513　　
+https://docs.google.com/spreadsheets/d/1KK5OsCZc8cSOJ8q_kuMVVIxrlsa1kR5WryMKHPf-x3Q/edit#gid=1426655307
 
 
 # アプリの挙動動画
@@ -44,7 +43,7 @@ https://docs.google.com/spreadsheets/d/1KK5OsCZc8cSOJ8q_kuMVVIxrlsa1kR5WryMKHPf-
 # アプリの挙動動画　　
 
 
-## 選択肢をクリックすると正誤結果が出ます。不正解だった場合のみ正解が表示されます。　　
+## 全問を終えると正解数が表示されます。　　
 
 
 [![Image from Gyazo](https://i.gyazo.com/5919a3b40f4d796c526ebc213a115f5a.gif)](https://gyazo.com/5919a3b40f4d796c526ebc213a115f5a)
