@@ -5,7 +5,7 @@ question
 
 # アプリケーション概要
 
-IT パスポートの模擬問題を行える。
+IT パスポートの模擬問題が行える。
 
 # URL
 
@@ -15,9 +15,9 @@ https://hugele.github.io/question/
 
 １　問題文とそれに合った回答を選択
 
-2 正誤結果が表示され「OK」を押すと次の問題が出題される
+2  正誤結果が表示され「OK」を押すと次の問題が出題される
 
-3 全問が終わると正解数が表示される
+3  全問が終わると正解数が表示される
 
 4 「はじめからスタート」を押すと、再スタートができる
 
@@ -57,4 +57,9 @@ https://docs.google.com/spreadsheets/d/1KK5OsCZc8cSOJ8q_kuMVVIxrlsa1kR5WryMKHPf-
 
 # 画面遷移図  
   
-[https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif](https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif)
+[https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif](https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif)　　
+
+# 開発環境
+
+JavaScript/Github/Visual Studio Code
+
