@@ -1,6 +1,7 @@
-# question
+# アプリケーション名  
 
-クイズアプリ
+question
+
 
 # アプリケーション概要
 
@@ -26,14 +27,35 @@ https://hugele.github.io/question/
 
 数冊の書籍とネット検索の両方だった IT パスポートの勉強の実体験から、ペーパーレスで身軽に行えることができないかと考え作成しました。
 
-# 洗い出した要件
+# 洗い出した要件　　
 
-https://docs.google.com/spreadsheets/d/1KK5OsCZc8cSOJ8q_kuMVVIxrlsa1kR5WryMKHPf-x3Q/edit#gid=1673176513
+
+https://docs.google.com/spreadsheets/d/1KK5OsCZc8cSOJ8q_kuMVVIxrlsa1kR5WryMKHPf-x3Q/edit#gid=1673176513　　
+
 
 # アプリの挙動動画
 
-[![Image from Gyazo](https://i.gyazo.com/b2182a7be76c0b3b09a63056806716d2.gif)](https://gyazo.com/b2182a7be76c0b3b09a63056806716d2)
+## 選択肢をクリックすると正誤結果が出ます。不正解だった場合のみ正解が表示されます。　　
 
-# 画面遷移図
 
-[![Image from Gyazo](https://i.gyazo.com/2c75d7352e23706579aacea7498bd5f1.png)](https://gyazo.com/2c75d7352e23706579aacea7498bd5f1)
+[![Image from Gyazo](https://i.gyazo.com/1f821ba23ee23c340149bc02aa2bc13d.gif)](https://gyazo.com/1f821ba23ee23c340149bc02aa2bc13d)　　
+
+
+# アプリの挙動動画　　
+
+
+## 選択肢をクリックすると正誤結果が出ます。不正解だった場合のみ正解が表示されます。　　
+
+
+[![Image from Gyazo](https://i.gyazo.com/5919a3b40f4d796c526ebc213a115f5a.gif)](https://gyazo.com/5919a3b40f4d796c526ebc213a115f5a)
+
+# アプリの挙動動画
+
+## 「調べる」をクリックすると IT 用語を調べられる WEB サイトへ遷移できるます。
+
+[![Image from Gyazo](https://i.gyazo.com/9edeccd402dd164faa7cef1bad0bf0c5.gif)](https://gyazo.com/9edeccd402dd164faa7cef1bad0bf0c5)　　
+
+
+# 画面遷移図  
+  
+[https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif](https://i.gyazo.com/dab6171ff8d5314c5f251d4704bb2af6.gif)
